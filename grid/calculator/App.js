@@ -136,7 +136,7 @@ export default function App() {
       </Text>
       <Grid style={
         {
-          marginTop : 190
+          marginTop : 220
         }
       }>
           <Row>
